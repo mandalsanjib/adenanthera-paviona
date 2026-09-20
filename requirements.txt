@@ -1,6 +1,7 @@
-streamlit
-tensorflow
+streamlit==1.39.0
+tensorflow-cpu==2.17.0
 pillow
 plotly
 pandas
 numpy
+protobuf==4.25.3
