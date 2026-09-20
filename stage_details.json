@@ -1,0 +1,65 @@
+{
+  "germination first stage": {
+    "name": "Germination First Stage",
+    "description": "Seed absorbs water (imbibition). Radicle (root) just begins to emerge. Cotyledons still enclosed.",
+    "key_features": "Slight swelling of seed, tiny white root tip visible.",
+    "duration": "Usually 1–3 days depending on species & temperature.",
+    "care_tips": "Keep moist but not waterlogged. Temperature 20–30°C ideal for most plants."
+  },
+  "germination second stage": {
+    "name": "Germination Second Stage",
+    "description": "Radicle elongates and starts anchoring. Hypocotyl begins to emerge.",
+    "key_features": "Clear root growth, seed coat may start splitting.",
+    "duration": "2–5 days after first stage.",
+    "care_tips": "Continue gentle moisture. Avoid disturbing the root."
+  },
+  "germination third stage": {
+    "name": "Germination Third Stage",
+    "description": "Shoot (plumule) emerges and pushes upward. Cotyledons begin to open or appear above soil.",
+    "key_features": "Visible shoot, cotyledons expanding, first true leaves may start forming.",
+    "duration": "3–8 days after second stage.",
+    "care_tips": "Provide light once shoot emerges. Reduce watering frequency slightly."
+  },
+  "leaf": {
+    "name": "Leaf Stage",
+    "description": "Image primarily shows leaf structure (diagnostic class).",
+    "key_features": "Leaf shape, venation, color, any disease signs.",
+    "duration": "Throughout vegetative growth.",
+    "care_tips": "Useful for health diagnosis and nutrient monitoring."
+  },
+  "mature stage": {
+    "name": "Mature Stage",
+    "description": "Plant is fully developed and ready for flowering or harvest depending on crop.",
+    "key_features": "Full canopy, reproductive structures may appear, maximum biomass.",
+    "duration": "Varies by crop (weeks to months).",
+    "care_tips": "Switch to bloom/fruit nutrients if applicable. Monitor pests."
+  },
+  "post mature stage": {
+    "name": "Post Mature Stage",
+    "description": "Plant has completed main growth. May show signs of senescence or be ready for harvest.",
+    "key_features": "Yellowing leaves, reduced new growth, possible fruit/seed maturity.",
+    "duration": "Late growth phase.",
+    "care_tips": "Reduce watering and nitrogen. Prepare for harvest or seed collection."
+  },
+  "premature stage": {
+    "name": "Premature Stage",
+    "description": "Rapid vegetative growth phase before flowering/fruiting readiness.",
+    "key_features": "Dense foliage, thicker stem, plant size increasing fast.",
+    "duration": "Active growth phase.",
+    "care_tips": "Higher nutrient demand (especially nitrogen). Support if needed."
+  },
+  "raw": {
+    "name": "Raw / Unclassified",
+    "description": "Image does not clearly match a defined growth stage (possibly poor quality or mixed content).",
+    "key_features": "Unclear features, blur, or mixed elements.",
+    "duration": "—",
+    "care_tips": "Try uploading a clearer, closer image of a single plant/seed."
+  },
+  "seeds": {
+    "name": "Seeds Stage",
+    "description": "Dormant or dry seed before any germination activity.",
+    "key_features": "Intact seed coat, no root/shoot emergence.",
+    "duration": "Storage phase.",
+    "care_tips": "Store in cool, dry place until sowing."
+  }
+}
