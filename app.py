@@ -1,3 +1,7 @@
+import os
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"   # Hide TensorFlow warnings
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"  # Force CPU only
+
 import streamlit as st
 import tensorflow as tf
 import numpy as np
