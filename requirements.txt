@@ -1,5 +1,6 @@
 streamlit
 tensorflow-cpu
 opencv-python-headless
+plotly
 pillow
-numpy
+numpy<2.0.0
